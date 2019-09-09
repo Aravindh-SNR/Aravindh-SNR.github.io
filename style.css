@@ -35,22 +35,22 @@ header.startup h1 {
   font-size: 2rem; 
 }
 
-#mc-embedded-subscribe.btn {
+.btn {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
 }
 
-#mc-embedded-subscribe.btn-xl {
+.btn-xl {
   padding: 1rem 2rem;
 }
 
-#mc-embedded-subscribe.btn-primary {
+.btn-primary {
   background-color: #F05F44;
   border-color: #F05F44; }
 
-#mc-embedded-subscribe.btn-primary:hover {
+.btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 5px;
